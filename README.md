@@ -11,7 +11,7 @@ This is a simple Ecommerce Store built with **React** and **Tailwind CSS**. This
 ## SnapShots
 ![Epic Store Home](images/Screenshot(3).png)
 ![Epic Store Products](images/Screenshot(4).png)
-![Epic Store Home](images/Screenshot(5).png)
+![Epic Store Footer](images/Screenshot(5).png)
 ![Epic Store Product](images/Screenshot(8).png)
 ![Epic Store Cart](images/Screenshot(6).png)
 
